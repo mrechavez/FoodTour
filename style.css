@@ -722,4 +722,37 @@ footer {
     .about__right p {
         margin-bottom: 1rem;
     }
+
+
+    /* =============== GALLERY ============= */
+    #gallery {
+        margin-top: 8rem;
+    }
+
+    .gallery__container p {
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .swiper-wrapper {
+        margin-top: 4rem;
+        height: fit-content;
+    }
+
+
+    /* =============== EXHIBITIONS ============= */
+    .exhibitions__head > p {
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .exhibitions__gallery {
+        margin-top: 3rem;
+        gap: 1rem;
+    }
+
+    .exhibitions__gallery article {
+        border: none;
+    }
+
 }
